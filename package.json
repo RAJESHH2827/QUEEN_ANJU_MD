@@ -1,12 +1,12 @@
 {
-  "name": "Queen_Anju",
+  "name": "Rajesh_hindu",
   "version": "2.5",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
+  "description": "A Simple WhatsApp bot created By King-Rajesh raaj",
   "main": "queen.js",
   "scripts": {
-    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
-    "stop": "pm2 stop Queen_Anju",
-    "restart": "pm2 restart Queen_Anju"
+    "start": "pm2 start rajesh.js --deep-monitoring --attach --name Rajesh_hindu",
+    "stop": "pm2 stop Rajesh_hindu",
+    "restart": "pm2 restart Rajesh_hindu"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
