@@ -4,13 +4,13 @@
 <img src = "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/LOGOS/6152181515400889311.jpg"  width="540" height="300">
 </img>
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=QUEEN+ANJU+WHATSAPP+BOT+MD+V2" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=RAJESH+RAAJ+WHATSAPP+BOT+HINDU+V2" alt="">
 </p>
     <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-GAMING_RASH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-RAJESH RAAJ_HINDU-red.svg?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="LOGO DESIGNER" src="https://img.shields.io/badge/LOGO_DESIGNER-NIKO_PAMIYA-red.svg?style=for-the-badge&logo=github"></a>
 
-<a href = ""><img alt="GAMING RASH" src="https://img.shields.io/youtube/channel/subscribers/UChrUGbOqQ6BZUAAsffJPPsw" target="_blank" /></a>
+<a href = ""><img alt="RAJESH RAAJ" src="https://img.shields.io/youtube/channel/subscribers/UChrUGbOqQ6BZUAAsffJPPsw" target="_blank" /></a>
 </p>
 <p align="center">
 <a href="https://github.com/Mrrashmika?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Mrrashmika?color=green&style=flat-square"></a>
@@ -21,7 +21,7 @@
 <a href="https://github.com/Mrrashmika/QUEEN_ANJU_MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 
 ### Please Read !
-Queen Anju is a whatsapp bot created by Gaming rash ( Janith Rashmika ) using baileys web api. Do not use this bot in a way that will cause trouble to others. 
+Rajesh raaj is a whatsapp bot created by RAJESH RAAJ ( KATTAR HINDU ) using baileys web api. Do not use this bot in a way that will cause trouble to others. 
 We are not responsible for any problems caused by your use of this!
 And Subscribe GAMING RASH and give one star for queen anju.
 </br>
